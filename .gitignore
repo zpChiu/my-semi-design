@@ -1,3 +1,6 @@
+# test
+*.test
+
 .tpl-temp
 server/log/
 server/view/
